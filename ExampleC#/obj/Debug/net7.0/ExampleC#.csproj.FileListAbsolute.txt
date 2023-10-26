@@ -1,0 +1,14 @@
+C:\Users\User\OneDrive\Documents\LessonsC#\ExampleC#\bin\Debug\net7.0\ExampleC#.exe
+C:\Users\User\OneDrive\Documents\LessonsC#\ExampleC#\bin\Debug\net7.0\ExampleC#.deps.json
+C:\Users\User\OneDrive\Documents\LessonsC#\ExampleC#\bin\Debug\net7.0\ExampleC#.runtimeconfig.json
+C:\Users\User\OneDrive\Documents\LessonsC#\ExampleC#\bin\Debug\net7.0\ExampleC#.dll
+C:\Users\User\OneDrive\Documents\LessonsC#\ExampleC#\bin\Debug\net7.0\ExampleC#.pdb
+C:\Users\User\OneDrive\Documents\LessonsC#\ExampleC#\obj\Debug\net7.0\ExampleC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Documents\LessonsC#\ExampleC#\obj\Debug\net7.0\ExampleC#.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Documents\LessonsC#\ExampleC#\obj\Debug\net7.0\ExampleC#.AssemblyInfo.cs
+C:\Users\User\OneDrive\Documents\LessonsC#\ExampleC#\obj\Debug\net7.0\ExampleC#.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Documents\LessonsC#\ExampleC#\obj\Debug\net7.0\ExampleC#.dll
+C:\Users\User\OneDrive\Documents\LessonsC#\ExampleC#\obj\Debug\net7.0\refint\ExampleC#.dll
+C:\Users\User\OneDrive\Documents\LessonsC#\ExampleC#\obj\Debug\net7.0\ExampleC#.pdb
+C:\Users\User\OneDrive\Documents\LessonsC#\ExampleC#\obj\Debug\net7.0\ExampleC#.genruntimeconfig.cache
+C:\Users\User\OneDrive\Documents\LessonsC#\ExampleC#\obj\Debug\net7.0\ref\ExampleC#.dll
